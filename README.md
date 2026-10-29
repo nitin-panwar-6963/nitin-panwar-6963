@@ -1,6 +1,6 @@
 <!-- Banner: repo me assets/banner.png rakho -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Nitin Panwar — DevOps & Cloud Engineer" width="100%" />
+  <img src="./DevOps & Cloud Engineer Banner.png" alt="Nitin Panwar — DevOps & Cloud Engineer" width="100%" />
 </p>
 
 <p align="center">
