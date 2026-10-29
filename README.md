@@ -29,17 +29,56 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions&theme=dark&perline=8" alt="Cloud & DevOps" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,prometheus,grafana,linux,bash,python,java,fastapi,nextjs,js,mysql,supabase&theme=dark&perline=13" alt="Dev tools" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-Image%20Scanning-00E5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Helm-Learning-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-</p>
+<div align="center">
+<table>
+  <tr>
+    <th align="center" width="220">Category</th>
+    <th align="center" width="520">Technologies</th>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="Cloud" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🏗️ Infrastructure as Code</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" alt="IaC" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔄 DevOps & CI/CD</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins&theme=dark" alt="CI/CD" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🐳 Containers</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Containers" />
+      <img src="https://img.shields.io/badge/Helm-Learning-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔐 DevSecOps</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+      <img src="https://img.shields.io/badge/Trivy-00E5FF?style=for-the-badge" alt="Trivy" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Monitoring</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoring" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Database</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="Database" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>💻 Languages & Frameworks</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,nextjs&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🖥️ OS & Scripting</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux,ubuntu,bash&theme=dark" alt="OS" /></td>
+  </tr>
+</table>
+</div>
 
 ---
 
