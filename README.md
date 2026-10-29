@@ -1,10 +1,10 @@
-<!-- Banner: repo me assets/banner.png rakho (steps chat me diye hain) -->
+<!-- Banner: repo me assets/banner.png rakho -->
 <p align="center">
   <img src="./assets/banner.png" alt="Nitin Panwar — DevOps & Cloud Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=gradient&customColorList=12,20,24&text=Nitin%20Panwar&fontSize=52&fontColor=ffffff&animation=fadeIn&stroke=00E5FF&strokeWidth=2&desc=DevOps%20%26%20Cloud%20Engineer&descSize=20&descAlignY=75" alt="Nitin Panwar" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=170&color=gradient&customColorList=12,20,24&text=Nitin%20Panwar&fontSize=54&fontColor=ffffff&animation=fadeIn&stroke=00E5FF&strokeWidth=2&desc=DevOps%20%26%20Cloud%20Engineer&descSize=20&descAlignY=75" alt="Nitin Panwar" />
 </p>
 
 <p align="center">
@@ -14,20 +14,30 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-Engineer%20in%20Training-00E5FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-AWS%20%26%20Azure-C792EA?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2EA043?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=nitin-panwar-6963&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24&section=header" width="100%" />
+</p>
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 CSE student at **MIET** · Graduating **2028**
-- 💼 Former **DevOps & Cloud Intern** at **HustleGrad Pvt. Ltd.**
-- 🎯 Looking for **DevOps / Cloud internships** & open-source collaboration
+<table align="center">
+  <tr>
+    <td>🎓 CSE student at <b>MIET</b> · Graduating <b>2028</b></td>
+    <td>💼 Former <b>DevOps & Cloud Intern</b> · HustleGrad Pvt. Ltd.</td>
+  </tr>
+  <tr>
+    <td>🔨 Learning by building, deploying & debugging</td>
+    <td>🎯 Looking for <b>DevOps / Cloud internships</b></td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
 <table>
@@ -80,73 +90,112 @@
 </table>
 </div>
 
----
+<br/>
 
-## 🔁 My DevSecOps Pipeline
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24&section=header" width="100%" />
+</p>
 
-```mermaid
-flowchart LR
-    A[Developer] --> B[GitHub]
-    B --> C[GitHub Actions / Jenkins]
-    C --> D[SonarQube]
-    D --> E[Docker Build]
-    E --> F[Trivy Scan]
-    F --> G[Docker Hub]
-    G --> H[Terraform]
-    H --> I[AWS / Azure]
-    I --> J[Kubernetes]
-    J --> K[Prometheus + Grafana]
-```
+<h2 align="center">⭐ Featured Projects</h2>
 
----
+<h3 align="center">☁️ Multi-Cloud DevSecOps Automation Platform &nbsp;<code>🚧 In Progress</code></h3>
 
-## 🌟 Projects
+<p align="center">
+  <b>One secure, automated pipeline to deploy apps on AWS & Azure.</b><br/>
+  <sub>SonarQube quality gate → Trivy image scan → Terraform → Kubernetes / Helm → Prometheus & Grafana</sub>
+</p>
 
-### 🛡️ HazardLens
-AI fire, smoke & crowd detection using **YOLO**, containerized with Docker, Terraform & Kubernetes.
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00E5FF?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D3393D?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
-🔗 [App](https://github.com/nitin-panwar-6963/hazardlens) · [Terraform](https://github.com/nitin-panwar-6963/hazardlens-terraform) · [Kubernetes](https://github.com/nitin-panwar-6963/hazardlens-k8s)
+<p align="center">🔗 <!-- ADD REPO LINK WHEN PUBLISHED --> <i>Repository coming soon</i></p>
 
-### 🛣️ RoadGuard AI
-AI pothole detection & reporting platform with REST API.
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+<br/>
 
-🔗 <!-- ADD REPO LINK --> *Coming soon*
+<h3 align="center">🛡️ HazardLens — AI Fire, Smoke & Crowd Detection</h3>
 
-### 🧾 DevOps Log Analyzer
-FastAPI tool that ingests CI/CD logs via webhooks and helps debug Jenkins / GitHub Actions failures.
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D3393D?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p align="center">
+  <sub>YOLO computer vision · Dockerized · Terraform on AWS · Kubernetes manifests</sub>
+</p>
 
-🔗 <!-- ADD REPO LINK --> *Coming soon*
+<p align="center">
+  <a href="https://github.com/nitin-panwar-6963/hazardlens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin-panwar-6963&repo=hazardlens&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/nitin-panwar-6963/hazardlens-terraform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin-panwar-6963&repo=hazardlens-terraform&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/nitin-panwar-6963/hazardlens-k8s">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitin-panwar-6963&repo=hazardlens-k8s&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
-### ☁️ Multi-Cloud DevSecOps Automation Platform &nbsp; `🚧 In Progress`
-One secure, automated pipeline to deploy apps on **AWS & Azure** — SonarQube quality gate → Trivy scan → Terraform → Kubernetes/Helm → Prometheus & Grafana monitoring.
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<br/>
 
-🔗 <!-- ADD REPO LINK WHEN PUBLISHED --> *Coming soon*
+<div align="center">
+<table>
+  <tr>
+    <td width="380" valign="top">
+      <h3>🛣️ RoadGuard AI</h3>
+      AI pothole detection & reporting platform with REST API.<br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /><br/><br/>
+      🔗 <!-- ADD REPO LINK --> <i>Coming soon</i>
+    </td>
+    <td width="380" valign="top">
+      <h3>🧾 DevOps Log Analyzer</h3>
+      Ingests CI/CD logs via webhooks and helps debug Jenkins / GitHub Actions failures.<br/><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D3393D?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br/><br/>
+      🔗 <!-- ADD REPO LINK --> <i>Coming soon</i>
+    </td>
+  </tr>
+</table>
+</div>
 
----
+<br/>
 
-## 💼 Experience
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24&section=header" width="100%" />
+</p>
 
-**DevOps & Cloud Intern — HustleGrad Pvt. Ltd.**
-SaaS dashboard deployment · environment setup & configuration · deployment troubleshooting · containers & CI/CD basics
+<h2 align="center">💼 Experience</h2>
 
----
+<p align="center">
+  <b>DevOps & Cloud Intern — HustleGrad Pvt. Ltd.</b><br/>
+  <sub>SaaS dashboard deployment · Environment setup & configuration · Deployment troubleshooting · Containers & CI/CD basics</sub>
+</p>
 
-## 📊 GitHub Stats
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes%20%26%20Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform%20Modules-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20%2F%20Azure%20Architecture-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-00E5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  🏅 Builder with Bharat (Microsoft) hackathon finalist <!-- official result se verify karke hi rakho -->
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24&section=header" width="100%" />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitin-panwar-6963&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -156,17 +205,7 @@ SaaS dashboard deployment · environment setup & configuration · deployment tro
   <img src="https://streak-stats.demolab.com?user=nitin-panwar-6963&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
----
-
-## 📚 Currently Learning
-Kubernetes & Helm · Terraform modules · AWS/Azure architecture · DevSecOps · Observability
-
-## 🏆 Achievements
-- 🏅 Builder with Bharat (Microsoft) hackathon finalist <!-- official result se verify karke hi rakho -->
-
----
-
-## 🤝 Connect
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/nitin-panwar-6963"><img src="https://img.shields.io/badge/GitHub-nitin--panwar--6963-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -175,3 +214,7 @@ Kubernetes & Helm · Terraform modules · AWS/Azure architecture · DevSecOps ·
 </p>
 
 <p align="center"><i>Automate · Deploy · Scale · Secure</i> ☁️</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=12,20,24&section=footer" width="100%" />
+</p>
